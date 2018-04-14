@@ -1,0 +1,9 @@
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Model\bin\Debug\Agathas.Storefront.Model.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Model\bin\Debug\Agathas.Storefront.Model.pdb
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Model\bin\Debug\Agathas.Storefront.Infrastructure.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Model\bin\Debug\log4net.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Model\bin\Debug\StructureMap.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Model\bin\Debug\Agathas.Storefront.Infrastructure.pdb
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Model\obj\Debug\Agathas.Storefront.Model.csprojResolveAssemblyReference.cache
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Model\obj\Debug\Agathas.Storefront.Model.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Model\obj\Debug\Agathas.Storefront.Model.pdb

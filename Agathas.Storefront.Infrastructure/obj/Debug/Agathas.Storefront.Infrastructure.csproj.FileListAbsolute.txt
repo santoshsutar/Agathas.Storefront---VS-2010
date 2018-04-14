@@ -1,0 +1,6 @@
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Infrastructure\bin\Debug\Agathas.Storefront.Infrastructure.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Infrastructure\bin\Debug\Agathas.Storefront.Infrastructure.pdb
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Infrastructure\bin\Debug\log4net.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Infrastructure\bin\Debug\StructureMap.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Infrastructure\obj\Debug\Agathas.Storefront.Infrastructure.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Infrastructure\obj\Debug\Agathas.Storefront.Infrastructure.pdb

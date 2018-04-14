@@ -1,0 +1,15 @@
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Repository.NHibernate\bin\Debug\Agathas.Storefront.Repository.NHibernate.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Repository.NHibernate\bin\Debug\Agathas.Storefront.Repository.NHibernate.pdb
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Repository.NHibernate\bin\Debug\Agathas.Storefront.Infrastructure.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Repository.NHibernate\bin\Debug\Agathas.Storefront.Model.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Repository.NHibernate\bin\Debug\Iesi.Collections.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Repository.NHibernate\bin\Debug\LinFu.DynamicProxy.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Repository.NHibernate\bin\Debug\log4net.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Repository.NHibernate\bin\Debug\NHibernate.ByteCode.LinFu.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Repository.NHibernate\bin\Debug\NHibernate.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Repository.NHibernate\bin\Debug\StructureMap.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Repository.NHibernate\bin\Debug\Agathas.Storefront.Infrastructure.pdb
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Repository.NHibernate\bin\Debug\Agathas.Storefront.Model.pdb
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Repository.NHibernate\obj\Debug\Agathas.Storefront.Repository.NHibernate.csprojResolveAssemblyReference.cache
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Repository.NHibernate\obj\Debug\Agathas.Storefront.Repository.NHibernate.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Repository.NHibernate\obj\Debug\Agathas.Storefront.Repository.NHibernate.pdb

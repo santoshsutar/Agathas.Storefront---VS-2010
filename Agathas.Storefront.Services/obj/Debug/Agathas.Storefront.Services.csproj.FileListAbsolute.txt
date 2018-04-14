@@ -1,0 +1,12 @@
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Services\bin\Debug\Agathas.Storefront.Services.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Services\bin\Debug\Agathas.Storefront.Services.pdb
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Services\bin\Debug\Agathas.Storefront.Infrastructure.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Services\bin\Debug\Agathas.Storefront.Model.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Services\bin\Debug\AutoMapper.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Services\bin\Debug\log4net.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Services\bin\Debug\StructureMap.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Services\bin\Debug\Agathas.Storefront.Infrastructure.pdb
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Services\bin\Debug\Agathas.Storefront.Model.pdb
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Services\obj\Debug\Agathas.Storefront.Services.csprojResolveAssemblyReference.cache
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Services\obj\Debug\Agathas.Storefront.Services.dll
+F:\Angular Sample Apps\Agathas.Storefront - VS 2010\Agathas.Storefront.Services\obj\Debug\Agathas.Storefront.Services.pdb
